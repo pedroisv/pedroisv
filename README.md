@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedroivorj
+- 👋 Hi, I’m @pedroisv
 - 👀 I’m interested in learning Data Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
