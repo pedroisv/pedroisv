@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedroivorj
-- 👀 I’m interested in learning Data Science
+- 👀 I’m interested in learning Data Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: intagram @pedroivosv
