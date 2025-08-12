@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @pedroisv
-- 👀 I’m interested in learning Data Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: intagram @pedroivosv
+# Olá, eu sou o Pedro 👋
 
-<!---
-pedroivorj/pedroivorj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou interessado na área de dados e estou em constante aprendizado em SQL, Excel e Power BI.
+
+## Meus Projetos
+
+Aqui você encontrará meus projetos.
+
+## Contato
+
+- 📫 pedroivosalesvieira@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pedroisv)  
+
+---
+
+Obrigado pela visita! Sinta-se à vontade para explorar meus projetos.
